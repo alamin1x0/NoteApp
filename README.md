@@ -1,1 +1,1 @@
-![image](https://{1s.pn})
+(https://{1s.pn})
