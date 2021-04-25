@@ -1,5 +1,4 @@
-(https://{https://github.com/msasakibalamin/NoteApp/blob/main/1s.png})
+<img src="https://github.com/msasakibalamin/NoteApp/blob/main/1s.png" />
 
 
-
-<img src="https://github.com/msasakibalamin/NoteApp/blob/main/1s.png" style=" width:100px ; height:100px " />
+//style=" width:100px ; height:100px "
